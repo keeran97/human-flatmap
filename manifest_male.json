@@ -1,0 +1,14 @@
+{
+    "id": "human-flatmap_male",
+    "models": "NCBITaxon:9606",
+    "description": "description.json",
+    "properties": "properties.json",
+    "sources": [
+        {
+            "id": "whole-human",
+            "href": "human_flatmap_male.svg",
+            "kind": "base"
+        }
+    ],
+    "anatomicalMap": "anatomical_map.json"
+}
