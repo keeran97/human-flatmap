@@ -6592,11 +6592,9 @@
                     "models": "UBERON:0018681",
                     "connects": [
                         "splanchnic_n_start-9",
-                        "splanchnic_n_start-12"
-                    ],
-                    "contained-in": [
                         "splanchnic_n_start-10",
-                        "splanchnic_n_start-11"
+                        "splanchnic_n_start-11",
+                        "splanchnic_n_start-12"
                     ]
                 },
                 {
