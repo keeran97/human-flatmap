@@ -4324,30 +4324,6 @@
             "type": "nerve",
             "models": "ILX:0738313"
         },
-        "bolser_109": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_110": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_111": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_112": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_113": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_114": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
         "bolser_115": {
             "type": "nerve",
             "models": "ILX:0789339"
@@ -6441,9 +6417,6 @@
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
-                    ],
-                    "contained-in": [
-                        "bolser_109"
                     ]
                 },
                 {
@@ -6451,9 +6424,6 @@
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
-                    ],
-                    "contained-in": [
-                        "bolser_110"
                     ]
                 },
                 {
