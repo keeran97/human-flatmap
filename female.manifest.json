@@ -1,7 +1,7 @@
 {
     "id": "human-flatmap_female",
     "models": "NCBITaxon:9606",
-    "biological-sex": "NCIT:C46113",
+    "biological-sex": "PATO:0000383",
     "description": "description.json",
     "properties": "properties.json",
 	"sckan-version": "staging",
