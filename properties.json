@@ -6623,6 +6623,7 @@
                 },
                 {
                     "id": "bolser_32",
+                    "comment": "interior communicating branch of the superior cervical ganglion to the superior laryngeal nerve??",
                     "connects": [
                         "plexus_1-1",
                         "point_16"
