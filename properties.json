@@ -4072,7 +4072,8 @@
             "class": "auto-hide"
         },
         "label_1-1": {
-            "class": "label_1"
+            "class": "label_1",
+            "class": "auto-hide"
         },
         "label_2-1": {
             "class": "label_2"
