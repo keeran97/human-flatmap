@@ -4471,9 +4471,6 @@
         },
         "vagus_n-14": {
             "class": "vagus_n"
-        },
-        "vagus": {
-            "class": "vagus_n"
         }
     },
     "networks": [
@@ -6734,9 +6731,6 @@
                     "connects": [
                         "point_26",
                         "point_44"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
