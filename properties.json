@@ -4472,6 +4472,10 @@
         },
         "vagus_n-14": {
             "class": "vagus_n"
+        },
+        "vagus": {
+            "class": "vagus_n",
+            "type": "nerve"
         }
     },
     "networks": [
