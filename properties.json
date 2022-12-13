@@ -6769,6 +6769,7 @@
                 },
                 {
                     "id": "lumbar_colonic",
+                    "models": "ILX:0793632",
                     "connects": [
                         "ganglion_5-1",
                         "lumbar_end"
