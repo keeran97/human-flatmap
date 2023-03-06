@@ -6,12 +6,6 @@
         "ganglion_7": {
             "label": "ventricular intracardiac ganglion"
         },
-        "ganglion_8": {
-            "label": "mediastinal ganglion"
-        },
-        "label_1": {
-            "label": "dura mater in the posterior cranial fossa"
-        },
         "label_2": {
             "label": "posterior wall of external acoustic meatus"
         },
@@ -1784,9 +1778,6 @@
         "S50_L1": {
             "class": "spinal_50"
         },
-        "S50_L1": {
-            "class": "spinal_50"
-        },
         "S50_L2": {
             "class": "spinal_50"
         },
@@ -1877,71 +1868,125 @@
         "S51_T13": {
             "class": "spinal_51"
         },
-		"ganglion_1-1": {
-            "class": "ganglion_1"
+        "ganglion_1-1": {
+            "models": "UBERON:0005364",
+            "name": "superior vagus X ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_2-1": {
-            "class": "ganglion_2"
+            "models": "UBERON:0005363",
+            "name": "inferior vagus X ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_3-1": {
-            "class": "ganglion_3"
+            "models": "UBERON:0001989",
+            "name": "superior cervical ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_4-1": {
-            "class": "ganglion_4"
+            "models": "UBERON:0016508",
+            "name": "pelvic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
-		"ganglion_5-1": {
-            "class": "ganglion_5"
-        },
-        "ganglion_6-1": {
-            "class": "ganglion_6"
-        },
-        "ganglion_7-1": {
-            "class": "ganglion_7"
+        "ganglion_5-1": {
+            "models": "UBERON:0005453",
+            "name": "inferior mesenteric ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_8-1": {
-            "class": "ganglion_8"
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
-		"ganglion_8-2": {
-            "class": "ganglion_8"
+        "ganglion_8-2": {
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
-		"ganglion_8-3": {
-            "class": "ganglion_8"
+        "ganglion_8-3": {
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
-		"ganglion_8-4": {
-            "class": "ganglion_8"
+        "ganglion_8-4": {
+            "models": "UBERON:0001808",
+            "name": "parasympathetic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_9-1": {
-            "class": "ganglion_9"
+            "models": "UBERON:0001990",
+            "name": "middle cervical ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_10-1": {
-            "class": "ganglion_10"
+            "models": "UBERON:0002440",
+            "name": "inferior cervical ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_11-1": {
-            "class": "ganglion_11"
+            "models": "UBERON:0002441",
+            "name": "cervicothoracic ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_12-1": {
-            "class": "ganglion_12"
+            "models": "UBERON:0005360",
+            "name": "Inferior Glossopharyngeal IX Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_13-1": {
-            "class": "ganglion_13"
+            "models": "ILX:0793555",
+            "name": "Atrial Intrinsic Cardiac Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_14-1": {
-            "class": "ganglion_14"
+            "models": "ILX:0793556",
+            "name": "Ventricular Intrinsic Cardiac Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_15-1": {
-            "class": "ganglion_15"
+            "models": "ILX:0793570",
+            "name": "Trachea Parasympathetic Ganglia",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_16-1": {
-            "class": "ganglion_16"
+            "models": "ILX:0793571",
+            "name": "Bronchus Parasympathetic Ganglia",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_17-1": {
-            "class": "ganglion_17"
+            "models": "ILX:0793572",
+            "name": "Bronchiole Parasympathetic Ganglia",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_18-1": {
-            "class": "ganglion_18"
+            "models": "ILX:0793573",
+            "name": "Terminal Bronchiole Parasympathetic Ganglia",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "ganglion_19-1": {
-            "class": "ganglion_19"
+            "models": "ILX:0793082",
+            "name": "Celiac Ganglion-Superior Mesenteric Ganglion Complex",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "body_1-1": {
             "class": "body_1"
@@ -1982,7 +2027,7 @@
         "bolser_14-1": {
             "class": "bolser_14"
         },
-		"bolser_16-1": {
+        "bolser_16-1": {
             "class": "bolser_16"
         },
         "bolser_17-1": {
@@ -1991,10 +2036,10 @@
         "bolser_19-1": {
             "class": "bolser_19"
         },
-		"bolser_2-1": {
+        "bolser_2-1": {
             "class": "bolser_2"
         },
-		"bolser_20-1": {
+        "bolser_20-1": {
             "class": "bolser_20"
         },
         "bolser_22-1": {
@@ -2006,13 +2051,10 @@
         "bolser_4-1": {
             "class": "bolser_4"
         },
-        "bolser_5-1": {
-            "class": "bolser_5"
-        },
         "bolser_8-1": {
             "class": "bolser_8"
         },
-		"brain_1-1": {
+        "brain_1-1": {
             "class": "brain_1"
         },
         "brain_1-2": {
@@ -2036,7 +2078,7 @@
         "brain_13-1": {
             "class": "brain_13"
         },
-		"brain_14-1": {
+        "brain_14-1": {
             "class": "brain_14"
         },
         "brain_15-1": {
@@ -2054,7 +2096,7 @@
         "brain_19-1": {
             "class": "brain_19"
         },
-		"brain_2-1": {
+        "brain_2-1": {
             "class": "brain_2"
         },
         "brain_20-1": {
@@ -2063,7 +2105,7 @@
         "brain_21-1": {
             "class": "brain_21"
         },
-		"brain_22-1": {
+        "brain_22-1": {
             "class": "brain_22"
         },
         "brain_23-1": {
@@ -2099,13 +2141,13 @@
         "brain_27-2": {
             "class": "brain_27"
         },
-		"brain_28-1": {
+        "brain_28-1": {
             "class": "brain_28"
         },
         "brain_29-1": {
             "class": "brain_29"
         },
-		"brain_3-1": {
+        "brain_3-1": {
             "class": "brain_3"
         },
         "brain_31-1": {
@@ -2126,13 +2168,13 @@
         "brain_35-1": {
             "class": "brain_35"
         },
-		"brain_36-1": {
+        "brain_36-1": {
             "class": "brain_36"
         },
-		"brain_37-1": {
+        "brain_37-1": {
             "class": "brain_37"
         },
-		"brain_38-1": {
+        "brain_38-1": {
             "class": "brain_38"
         },
         "brain_39-1": {
@@ -2159,7 +2201,7 @@
         "brain_45-1": {
             "class": "brain_45"
         },
-		"brain_47-1": {
+        "brain_47-1": {
             "class": "brain_47"
         },
         "brain_48-1": {
@@ -2171,16 +2213,16 @@
         "brain_5-1": {
             "class": "brain_5"
         },
-		"brain_50-1": {
+        "brain_50-1": {
             "class": "brain_50"
         },
-		"brain_51-1": {
+        "brain_51-1": {
             "class": "brain_51"
         },
-		"brain_51-2": {
+        "brain_51-2": {
             "class": "brain_51"
         },
-		"brain_52-1": {
+        "brain_52-1": {
             "class": "brain_52"
         },
         "brain_6-1": {
@@ -2192,7 +2234,7 @@
         "brain_8-1": {
             "class": "brain_8"
         },
-		"brain_9-1": {
+        "brain_9-1": {
             "class": "brain_9"
         },
         "brain_9-2": {
@@ -2213,16 +2255,16 @@
         "cardio_13-1": {
             "class": "cardio_13"
         },
-		"cardio_14-1": {
+        "cardio_14-1": {
             "class": "cardio_14"
         },
-		"cardio_15-1": {
+        "cardio_15-1": {
             "class": "cardio_15"
         },
         "cardio_16-1": {
             "class": "cardio_16"
         },
-		"cardio_17-1": {
+        "cardio_17-1": {
             "class": "cardio_17"
         },
         "cardio_18-1": {
@@ -2285,13 +2327,13 @@
         "cardio_3-1": {
             "class": "cardio_3"
         },
-		"cardio_30-1": {
+        "cardio_30-1": {
             "class": "cardio_30"
         },
         "cardio_31-1": {
             "class": "cardio_31"
         },
-		"cardio_32-1": {
+        "cardio_32-1": {
             "class": "cardio_32"
         },
         "cardio_33-1": {
@@ -2412,37 +2454,37 @@
         "digestive_21-1": {
             "class": "digestive_21"
         },
-		"digestive_24-1": {
+        "digestive_24-1": {
             "class": "digestive_24"
         },
-		"digestive_25-1": {
+        "digestive_25-1": {
             "class": "digestive_25"
         },
-		"digestive_26-1": {
+        "digestive_26-1": {
             "class": "digestive_26"
         },
-		"digestive_27-1": {
+        "digestive_27-1": {
             "class": "digestive_27"
         },
-		"digestive_28-1": {
+        "digestive_28-1": {
             "class": "digestive_28"
         },
-		"digestive_29-1": {
+        "digestive_29-1": {
             "class": "digestive_29"
         },
         "digestive_3-1": {
             "class": "digestive_3"
         },
-		"digestive_30-1": {
+        "digestive_30-1": {
             "class": "digestive_30"
         },
-		"digestive_31-1": {
+        "digestive_31-1": {
             "class": "digestive_31"
         },
-		"digestive_32-1": {
+        "digestive_32-1": {
             "class": "digestive_32"
         },
-		"digestive_33-1": {
+        "digestive_33-1": {
             "class": "digestive_33"
         },
         "digestive_34-1": {
@@ -2637,43 +2679,43 @@
         "digestive_78-1": {
             "class": "digestive_78"
         },
-		"digestive_79-1": {
+        "digestive_79-1": {
             "class": "digestive_79"
         },
         "digestive_8-1": {
             "class": "digestive_8"
         },
-		"digestive_80-1": {
+        "digestive_80-1": {
             "class": "digestive_80"
         },
-		"digestive_81-1": {
+        "digestive_81-1": {
             "class": "digestive_81"
         },
-		"digestive_82-1": {
+        "digestive_82-1": {
             "class": "digestive_82"
         },
-		"digestive_83-1": {
+        "digestive_83-1": {
             "class": "digestive_83"
         },
-		"digestive_84-1": {
+        "digestive_84-1": {
             "class": "digestive_84"
         },
         "digestive_9-1": {
             "class": "digestive_9"
         },
-		"skeleton_1-1": {
+        "skeleton_1-1": {
             "class": "skeleton_1"
         },
-		"skeleton_2-1": {
+        "skeleton_2-1": {
             "class": "skeleton_2"
         },
-		"skeleton_3-1": {
+        "skeleton_3-1": {
             "class": "skeleton_3"
         },
-		"skeleton_4-1": {
+        "skeleton_4-1": {
             "class": "skeleton_4"
         },
-		"skeleton_5-1": {
+        "skeleton_5-1": {
             "class": "skeleton_5"
         },
         "endocrine_1-1": {
@@ -2830,16 +2872,16 @@
         "reproductive_10-2": {
             "class": "reproductive_10"
         },
-		"reproductive_11-1": {
+        "reproductive_11-1": {
             "class": "reproductive_11"
         },
-		"reproductive_12-1": {
+        "reproductive_12-1": {
             "class": "reproductive_12"
         },
-		"reproductive_13-1": {
+        "reproductive_13-1": {
             "class": "reproductive_13"
         },
-		"reproductive_14-1": {
+        "reproductive_14-1": {
             "class": "reproductive_14"
         },
         "respiratory_10-1": {
@@ -2848,10 +2890,10 @@
         "respiratory_11-1": {
             "class": "respiratory_11"
         },
-		"respiratory_12-1": {
+        "respiratory_12-1": {
             "class": "respiratory_12"
         },
-		"respiratory_13-1": {
+        "respiratory_13-1": {
             "class": "respiratory_13"
         },
         "respiratory_14-1": {
@@ -2899,7 +2941,7 @@
         "respiratory_27-1": {
             "class": "respiratory_27"
         },
-		"respiratory_28-1": {
+        "respiratory_28-1": {
             "class": "respiratory_28"
         },
         "respiratory_29-1": {
@@ -3858,7 +3900,7 @@
         "spinal_53-1": {
             "class": "spinal_53"
         },
-		"spinal_53-2": {
+        "spinal_53-2": {
             "class": "spinal_53"
         },
         "spinal_54-1": {
@@ -3952,43 +3994,80 @@
             "class": "urinary_17"
         },
         "plexus_1-1": {
-            "class": "plexus_1"
+            "models": "ILX:0793621",
+            "name": "external carotid nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_2-1": {
-            "class": "plexus_2"
+            "models": "UBERON:0011325",
+            "name": "pharyngeal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_3-1": {
-            "class": "plexus_3"
+            "models": "UBERON:0002008",
+            "name": "cardiac nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_4-1": {
-            "class": "plexus_4"
+            "models": "UBERON:0002009",
+            "name": "pulmonary nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_5-1": {
-            "class": "plexus_5"
+            "models": "FMA:6225",
+            "name": "esophageal nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_6-1": {
-            "class": "plexus_6"
+            "models": "ILX:0770806",
+            "name": "left gastric nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_7-1": {
-            "class": "plexus_7"
+            "models": "UBERON:0002024",
+            "name": "internal carotid nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_8-1": {
-            "class": "plexus_8"
+            "models": "ILX:0793657",
+            "name": "Myenteric Nerve Plexus of Descending Colon",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_9-1": {
-            "class": "plexus_9"
+            "models": "ILX:0793659",
+            "name": "Submucous Nerve Plexus of Descending Colon",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_10-1": {
-            "class": "plexus_10"
+            "models": "ILX:0793656",
+            "name": "Myenteric Nerve Plexus of Stomach",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_10-2": {
-            "class": "plexus_10"
+            "models": "ILX:0793656",
+            "name": "Myenteric Nerve Plexus of Stomach",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "plexus_11-1": {
-            "class": "plexus_11"
+            "models": "ILX:0793660",
+            "name": "Myenteric Nerve Plexus of Lower Esophagus",
+            "type": "ganglion",
+            "class": "auto-hide"
         },
         "label_1-1": {
-            "class": "label_1"
+            "label": "dura mater in the posterior cranial fossa",
+            "class": "auto-hide"
         },
         "label_2-1": {
             "class": "label_2"
@@ -4314,7 +4393,7 @@
         },
         "bolser_106": {
             "type": "nerve",
-            "models": "UBERON:0001649"
+            "class": "bolser_5"
         },
         "bolser_107": {
             "type": "nerve",
@@ -4323,30 +4402,6 @@
         "bolser_108": {
             "type": "nerve",
             "models": "ILX:0738313"
-        },
-        "bolser_109": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_110": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_111": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_112": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_113": {
-            "type": "nerve",
-            "model-unknown": ""
-        },
-        "bolser_114": {
-            "type": "nerve",
-            "model-unknown": ""
         },
         "bolser_115": {
             "type": "nerve",
@@ -4363,6 +4418,12 @@
         "LCN": {
             "type": "nerve",
             "models": "ILX:0793632"
+        },
+        "bolser_11": {
+            "class": "bolser_5"
+        },
+        "bolser_25": {
+            "class": "bolser_5"
         },
         "vagus_n-1": {
             "class": "vagus_n"
@@ -4407,41 +4468,15 @@
             "class": "vagus_n"
         },
         "vagus": {
-            "class": "vagus_n"
+            "class": "vagus_n",
+            "type": "nerve"
         }
     },
     "networks": [
         {
             "id": "neural",
+            "type": "nerve",
             "centrelines": [
-                {
-                    "id": "n_1",
-                    "connects": [
-                        "brain_44-1",
-                        "point_1"
-                    ]
-                },
-                {
-                    "id": "n_2",
-                    "connects": [
-                        "brain_34-1",
-                        "point_1"
-                    ]
-                },
-                {
-                    "id": "n_3",
-                    "connects": [
-                        "brain_12-1",
-                        "point_1"
-                    ]
-                },
-                {
-                    "id": "n_4",
-                    "connects": [
-                        "brain_33-1",
-                        "point_1"
-                    ]
-                },
                 {
                     "id": "n_6",
                     "models": "FMA:6231",
@@ -4456,9 +4491,6 @@
                     "connects": [
                         "ganglion_1-1",
                         "point_3"
-                    ],
-                    "contained-in": [
-                        "vagus_14"
                     ]
                 },
                 {
@@ -4466,12 +4498,9 @@
                     "models": "FMA:6232",
                     "connects": [
                         "ganglion_2-1",
-                        "point_10"
-                    ],
-                    "contained-in": [
-                        "vagus_1",
                         "point_6",
-                        "point_8"
+                        "point_8",
+                        "point_10"
                     ]
                 },
                 {
@@ -4480,9 +4509,6 @@
                     "connects": [
                         "point_8",
                         "point_9"
-                    ],
-                    "contained-in": [
-                        "vagus_3"
                     ]
                 },
                 {
@@ -4491,9 +4517,6 @@
                     "connects": [
                         "point_10",
                         "label_3-1"
-                    ],
-                    "contained-in": [
-                        "vagus_5"
                     ]
                 },
                 {
@@ -4502,9 +4525,6 @@
                     "connects": [
                         "point_10",
                         "label_2-1"
-                    ],
-                    "contained-in": [
-                        "vagus_4"
                     ]
                 },
                 {
@@ -4513,9 +4533,6 @@
                     "connects": [
                         "point_10",
                         "label_4-1"
-                    ],
-                    "contained-in": [
-                        "vagus_6"
                     ]
                 },
                 {
@@ -4524,9 +4541,6 @@
                     "connects": [
                         "point_6",
                         "point_7"
-                    ],
-                    "contained-in": [
-                        "vagus_2"
                     ]
                 },
                 {
@@ -4534,11 +4548,8 @@
                     "models": "UBERON:0000929",
                     "connects": [
                         "point_11",
+                        "point_12",
                         "point_13"
-                    ],
-                    "contained-in": [
-                        "pharyngeal_vagus_1",
-                        "point_12"
                     ]
                 },
                 {
@@ -4547,9 +4558,6 @@
                     "connects": [
                         "point_13",
                         "label_5-1"
-                    ],
-                    "contained-in": [
-                        "pharyngeal_vagus_2"
                     ]
                 },
                 {
@@ -4558,20 +4566,15 @@
                     "connects": [
                         "point_13",
                         "label_6-1"
-                    ],
-                    "contained-in": [
-                        "pharyngeal_vagus_3"
                     ]
                 },
                 {
                     "id": "n_16",
+                    "models": "ILX:0786059",
                     "connects": [
                         "point_14",
+                        "point_15",
                         "cardio_4-1"
-                    ],
-                    "contained-in": [
-                        "vagus_8",
-                        "point_15"
                     ]
                 },
                 {
@@ -4579,11 +4582,8 @@
                     "models": "UBERON:0011326",
                     "connects": [
                         "point_16",
+                        "point_17",
                         "point_18"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_1",
-                        "point_17"
                     ]
                 },
                 {
@@ -4592,9 +4592,6 @@
                     "connects": [
                         "point_18",
                         "point_19"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_2"
                     ]
                 },
                 {
@@ -4603,9 +4600,6 @@
                     "connects": [
                         "point_19",
                         "point_20"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_5"
                     ]
                 },
                 {
@@ -4614,9 +4608,6 @@
                     "connects": [
                         "point_20",
                         "label_8-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_10"
                     ]
                 },
                 {
@@ -4625,9 +4616,6 @@
                     "connects": [
                         "point_20",
                         "respiratory_11-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_11"
                     ]
                 },
                 {
@@ -4636,9 +4624,6 @@
                     "connects": [
                         "point_20",
                         "label_7-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_13"
                     ]
                 },
                 {
@@ -4647,9 +4632,6 @@
                     "connects": [
                         "point_20",
                         "respiratory_5-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_12"
                     ]
                 },
                 {
@@ -4658,9 +4640,6 @@
                     "connects": [
                         "point_19",
                         "point_21"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_4"
                     ]
                 },
                 {
@@ -4669,9 +4648,6 @@
                     "connects": [
                         "point_21",
                         "label_10-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_6"
                     ]
                 },
                 {
@@ -4680,9 +4656,6 @@
                     "connects": [
                         "point_21",
                         "label_11-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_7"
                     ]
                 },
                 {
@@ -4691,9 +4664,6 @@
                     "connects": [
                         "point_21",
                         "label_12-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_8"
                     ]
                 },
                 {
@@ -4702,9 +4672,6 @@
                     "connects": [
                         "point_21",
                         "point_37"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_9"
                     ]
                 },
                 {
@@ -4713,9 +4680,6 @@
                     "connects": [
                         "point_18",
                         "external_laryngeal_n_branching_point"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_3"
                     ]
                 },
                 {
@@ -4723,11 +4687,8 @@
                     "models": "ILX:0786680",
                     "connects": [
                         "point_22",
+                        "point_23",
                         "point_24"
-                    ],
-                    "contained-in": [
-                        "cardiac_vagus_1",
-                        "point_23"
                     ]
                 },
                 {
@@ -4736,9 +4697,6 @@
                     "connects": [
                         "point_24",
                         "plexus_3-1"
-                    ],
-                    "contained-in": [
-                        "cardiac_vagus_2"
                     ]
                 },
                 {
@@ -4747,9 +4705,6 @@
                     "connects": [
                         "point_24",
                         "point_25"
-                    ],
-                    "contained-in": [
-                        "cardiac_vagus_3"
                     ]
                 },
                 {
@@ -4758,9 +4713,6 @@
                     "connects": [
                         "point_25",
                         "plexus_3-1"
-                    ],
-                    "contained-in": [
-                        "cardiac_vagus_5"
                     ]
                 },
                 {
@@ -4769,9 +4721,6 @@
                     "connects": [
                         "point_25",
                         "plexus_3-1"
-                    ],
-                    "contained-in": [
-                        "cardiac_vagus_6"
                     ]
                 },
                 {
@@ -4780,9 +4729,6 @@
                     "connects": [
                         "point_24",
                         "plexus_3-1"
-                    ],
-                    "contained-in": [
-                        "cardiac_vagus_4"
                     ]
                 },
                 {
@@ -4790,11 +4736,8 @@
                     "models": "UBERON:0003716",
                     "connects": [
                         "point_26",
+                        "point_27",
                         "point_28"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_1",
-                        "point_27"
                     ]
                 },
                 {
@@ -4803,9 +4746,6 @@
                     "connects": [
                         "point_28",
                         "label_9-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_2"
                     ]
                 },
                 {
@@ -4814,9 +4754,6 @@
                     "connects": [
                         "point_28",
                         "point_29"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_3"
                     ]
                 },
                 {
@@ -4825,9 +4762,6 @@
                     "connects": [
                         "point_29",
                         "label_15-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_8"
                     ]
                 },
                 {
@@ -4836,9 +4770,6 @@
                     "connects": [
                         "point_29",
                         "label_16-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_9"
                     ]
                 },
                 {
@@ -4847,9 +4778,6 @@
                     "connects": [
                         "point_29",
                         "label_17-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_10"
                     ]
                 },
                 {
@@ -4858,9 +4786,6 @@
                     "connects": [
                         "point_29",
                         "label_18-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_11"
                     ]
                 },
                 {
@@ -4869,9 +4794,6 @@
                     "connects": [
                         "point_29",
                         "label_19-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_12"
                     ]
                 },
                 {
@@ -4880,9 +4802,6 @@
                     "connects": [
                         "point_29",
                         "label_20-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_13"
                     ]
                 },
                 {
@@ -4891,9 +4810,6 @@
                     "connects": [
                         "point_29",
                         "label_21-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_14"
                     ]
                 },
                 {
@@ -4902,9 +4818,6 @@
                     "connects": [
                         "point_29",
                         "label_22-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_15"
                     ]
                 },
                 {
@@ -4913,9 +4826,6 @@
                     "connects": [
                         "point_28",
                         "label_13-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_4"
                     ]
                 },
                 {
@@ -4924,9 +4834,6 @@
                     "connects": [
                         "point_28",
                         "respiratory_8-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_5"
                     ]
                 },
                 {
@@ -4935,9 +4842,6 @@
                     "connects": [
                         "point_28",
                         "respiratory_16-1"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_6"
                     ]
                 },
                 {
@@ -4946,9 +4850,6 @@
                     "connects": [
                         "point_28",
                         "point_38"
-                    ],
-                    "contained-in": [
-                        "recurrent_laryngeal_7"
                     ]
                 },
                 {
@@ -4957,9 +4858,6 @@
                     "connects": [
                         "point_30",
                         "plexus_4-1"
-                    ],
-                    "contained-in": [
-                        "vagus_12"
                     ]
                 },
                 {
@@ -4968,9 +4866,6 @@
                     "connects": [
                         "point_31",
                         "respiratory_17-1"
-                    ],
-                    "contained-in": [
-                        "vagus_9"
                     ]
                 },
                 {
@@ -4979,9 +4874,6 @@
                     "connects": [
                         "point_32",
                         "point_33"
-                    ],
-                    "contained-in": [
-                        "esophageal_vagus_1"
                     ]
                 },
                 {
@@ -4990,9 +4882,6 @@
                     "connects": [
                         "point_33",
                         "plexus_5-1"
-                    ],
-                    "contained-in": [
-                        "esophageal_vagus_2"
                     ]
                 },
                 {
@@ -5001,9 +4890,6 @@
                     "connects": [
                         "point_33",
                         "plexus_5-1"
-                    ],
-                    "contained-in": [
-                        "esophageal_vagus_3"
                     ]
                 },
                 {
@@ -5020,9 +4906,6 @@
                     "connects": [
                         "point_35",
                         "plexus_6-1"
-                    ],
-                    "contained-in": [
-                        "vagus_10"
                     ]
                 },
                 {
@@ -5031,9 +4914,6 @@
                     "connects": [
                         "point_36",
                         "urinary_13-1"
-                    ],
-                    "contained-in": [
-                        "vagus_13"
                     ]
                 },
                 {
@@ -5041,9 +4921,6 @@
                     "connects": [
                         "ganglion_3-1",
                         "plexus_1-1"
-                    ],
-                    "contained-in": [
-                        "ECN"
                     ]
                 },
                 {
@@ -5087,9 +4964,6 @@
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "label_14-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_14"
                     ]
                 },
                 {
@@ -5098,9 +4972,6 @@
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "label_15-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_15"
                     ]
                 },
                 {
@@ -5109,9 +4980,6 @@
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "plexus_2-1"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_16"
                     ]
                 },
                 {
@@ -5120,9 +4988,6 @@
                     "connects": [
                         "external_laryngeal_n_branching_point",
                         "point_41"
-                    ],
-                    "contained-in": [
-                        "superior_laryngeal_18"
                     ]
                 },
                 {
@@ -5130,6 +4995,9 @@
                     "connects": [
                         "brain_13-1",
                         "brain_14-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1"
                     ]
                 },
                 {
@@ -5137,6 +5005,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_19-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -5144,6 +5016,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_17-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -5151,6 +5027,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_20-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -5158,6 +5038,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_15-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -5165,6 +5049,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_16-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -5172,6 +5060,10 @@
                     "connects": [
                         "brain_13-1",
                         "brain_18-1"
+                    ],
+                    "contained-in": [
+                        "brain_25-1",
+                        "brain_29-1"
                     ]
                 },
                 {
@@ -5470,22 +5362,18 @@
                 },
                 {
                     "id": "L6_gray_ramus-spinal_n",
+                    "models": "ILX:0739299",
                     "connects": [
                         "S46_L6",
                         "L6_spinal"
-                    ],
-                    "contained-in": [
-                        "S49_L6"
                     ]
                 },
                 {
                     "id": "S1_gray_ramus-spinal_n",
+                    "models": "ILX:0793228",
                     "connects": [
                         "S46_S1",
                         "S1_spinal"
-                    ],
-                    "contained-in": [
-                        "S49_S1"
                     ]
                 },
                 {
@@ -5903,6 +5791,11 @@
                     "connects": [
                         "L1_spinal",
                         "spinal_22-1/L1_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_L1",
+                        "S48_L1",
+                        "S49_L1"
                     ]
                 },
                 {
@@ -5910,6 +5803,11 @@
                     "connects": [
                         "L2_spinal",
                         "spinal_23-1/L2_ventral_root_end"
+                    ],
+                    "contained-in": [
+                        "S43_L2",
+                        "S48_L2",
+                        "S49_L2"
                     ]
                 },
                 {
@@ -5985,8 +5883,7 @@
                     ],
                     "contained-in": [
                         "S43_L1",
-                        "S48_L1",
-                        "S50_L1"
+                        "S48_L1"
                     ]
                 },
                 {
@@ -5997,8 +5894,7 @@
                     ],
                     "contained-in": [
                         "S43_L2",
-                        "S48_L2",
-                        "S50_L2"
+                        "S48_L2"
                     ]
                 },
                 {
@@ -6191,13 +6087,6 @@
                     "connects": [
                         "S46_S1",
                         "S46_S2"
-                    ]
-                },
-                {
-                    "id": "pons_brngtn_cns",
-                    "connects": [
-                        "brain_26-1",
-                        "brain_13-1"
                     ]
                 },
                 {
@@ -6432,9 +6321,6 @@
                     "connects": [
                         "ganglion_5-1",
                         "ganglion_4-1"
-                    ],
-                    "contained-in": [
-                        "keast_5-1"
                     ]
                 },
                 {
@@ -6443,9 +6329,6 @@
                     "connects": [
                         "lumbar_splanchnic_n_start",
                         "ganglion_5-1"
-                    ],
-                    "contained-in": [
-                        "keast_7-1"
                     ]
                 },
                 {
@@ -6610,9 +6493,6 @@
                     "connects": [
                         "ganglion_2-1",
                         "bolser_1_branching_point"
-                    ],
-                    "contained-in": [
-                        "bolser_105"
                     ]
                 },
                 {
@@ -6620,9 +6500,6 @@
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
-                    ],
-                    "contained-in": [
-                        "bolser_109"
                     ]
                 },
                 {
@@ -6630,9 +6507,6 @@
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
-                    ],
-                    "contained-in": [
-                        "bolser_110"
                     ]
                 },
                 {
@@ -6648,9 +6522,6 @@
                     "connects": [
                         "plexus_1-1",
                         "bolser_6_branching_point"
-                    ],
-                    "contained-in": [
-                        "bolser_104"
                     ]
                 },
                 {
@@ -6666,9 +6537,6 @@
                     "connects": [
                         "plexus_7-1",
                         "bolser_8_branching_point"
-                    ],
-                    "contained-in": [
-                        "bolser_102"
                     ]
                 },
                 {
@@ -6690,7 +6558,7 @@
                     "id": "bolser_11",
                     "connects": [
                         "brain_12-1",
-                        "point_44"
+                        "point_49"
                     ]
                 },
                 {
@@ -6708,9 +6576,6 @@
                     "connects": [
                         "ganglion_12-1",
                         "point_42"
-                    ],
-                    "contained-in": [
-                        "bolser_108"
                     ]
                 },
                 {
@@ -6730,11 +6595,8 @@
                 {
                     "id": "bolser_25",
                     "connects": [
-                        "point_44",
+                        "point_49",
                         "ganglion_12-1"
-                    ],
-                    "contained-in": [
-                        "bolser_106"
                     ]
                 },
                 {
@@ -6742,20 +6604,6 @@
                     "connects": [
                         "plexus_7-1",
                         "point_1"
-                    ]
-                },
-                {
-                    "id": "bolser_27",
-                    "connects": [
-                        "point_1",
-                        "brain_48-1"
-                    ]
-                },
-                {
-                    "id": "bolser_29",
-                    "connects": [
-                        "point_1",
-                        "brain_11-1"
                     ]
                 },
                 {
@@ -6768,15 +6616,8 @@
                 {
                     "id": "bolser_31",
                     "connects": [
-                        "brain_27-1",
-                        "point_1"
-                    ]
-                },
-                {
-                    "id": "bolser_32",
-                    "connects": [
-                        "plexus_1-1",
-                        "point_16"
+                        "point_44",
+                        "point_49"
                     ]
                 },
                 {
@@ -6784,9 +6625,6 @@
                     "connects": [
                         "ganglion_12-1",
                         "point_45"
-                    ],
-                    "contained-in": [
-                        "bolser_115"
                     ]
                 },
                 {
@@ -6816,11 +6654,9 @@
                     "models": "UBERON:0018681",
                     "connects": [
                         "splanchnic_n_start-9",
-                        "splanchnic_n_start-12"
-                    ],
-                    "contained-in": [
                         "splanchnic_n_start-10",
-                        "splanchnic_n_start-11"
+                        "splanchnic_n_start-11",
+                        "splanchnic_n_start-12"
                     ]
                 },
                 {
@@ -6831,9 +6667,6 @@
                         "splanchnic_n_start-13",
                         "splanchnic_n_start-14",
                         "splanchnic_n_branching_point"
-                    ],
-                    "contained-in": [
-                        "splanchnic"
                     ]
                 },
                 {
@@ -6890,9 +6723,6 @@
                     "connects": [
                         "point_26",
                         "point_44"
-                    ],
-                    "contained-in": [
-                        "vagus"
                     ]
                 },
                 {
@@ -6939,12 +6769,10 @@
                 },
                 {
                     "id": "lumbar_colonic",
+                    "models": "ILX:0793632",
                     "connects": [
                         "ganglion_5-1",
                         "lumbar_end"
-                    ],
-                    "contained-in": [
-                        "LCN"
                     ]
                 }
             ]

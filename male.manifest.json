@@ -1,9 +1,10 @@
 {
     "id": "human-flatmap_male",
     "models": "NCBITaxon:9606",
+    "biological-sex": "PATO:0000384",
     "description": "description.json",
     "properties": "properties.json",
-	"sckan-version": "production",
+	"sckan-version": "staging",
     "sources": [
         {
             "id": "whole-human",
