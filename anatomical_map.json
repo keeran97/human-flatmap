@@ -1384,15 +1384,15 @@
         "name": "pharyngeal nerve plexus"
     },
     "plexus_3": {
-        "term": "UBERON:0002008",
-        "name": "cardiac nerve plexus"
+        "term": "ILX:0775776",
+        "name": "deep cardiac nerve plexus"
     },
     "plexus_4": {
-        "term": "UBERON:0002009",
-        "name": "pulmonary nerve plexus"
+        "term": "ILX:0775546",
+        "name": "anterior pulmonary nerve plexus"
     },
     "plexus_5": {
-        "term": "FMA:6225",
+        "term": "ILX:0793704",
         "name": "esophageal nerve plexus"
     },
     "plexus_6": {
@@ -1418,6 +1418,22 @@
     "plexus_11": {
         "term": "ILX:0793660",
         "name": "Myenteric Nerve Plexus of Lower Esophagus"
+    },
+	"plexus_12": {
+        "term": "ILX:0771304",
+        "name": "hepatic plexus"
+    },
+	"plexus_13": {
+        "term": "ILX:0739924",
+        "name": "right gastric plexus"
+    },
+	"plexus_14": {
+        "term": "ILX:0776628",
+        "name": "posterior pulmonary plexus"
+    },
+	"plexus_15": {
+        "term": "ILX:0773392",
+        "name": "superficial cardiac nerve plexus"
     },
     "label_4": {
         "term": "UBERON:0002364",
