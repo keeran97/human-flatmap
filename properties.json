@@ -4006,19 +4006,19 @@
             "class": "auto-hide"
         },
         "plexus_3-1": {
-            "models": "UBERON:0002008",
-            "name": "cardiac nerve plexus",
+            "models": "ILX:0775776",
+            "name": "deep cardiac nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
         "plexus_4-1": {
-            "models": "UBERON:0002009",
-            "name": "pulmonary nerve plexus",
+            "models": "ILX:0775546",
+            "name": "anterior pulmonary nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
         "plexus_5-1": {
-            "models": "FMA:6225",
+            "models": "ILX:0793704",
             "name": "esophageal nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
@@ -4062,6 +4062,36 @@
         "plexus_11-1": {
             "models": "ILX:0793660",
             "name": "Myenteric Nerve Plexus of Lower Esophagus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+		"plexus_12-1": {
+            "models": "ILX:0771304",
+            "name": "hepatic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+		"plexus_12-2": {
+            "models": "ILX:0771304",
+            "name": "hepatic plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+		"plexus_13-1": {
+            "models": "ILX:0739924",
+            "name": "right gastric plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+		"plexus_14-1": {
+            "models": "ILX:0776628",
+            "name": "posterior pulmonary plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+		"plexus_15-1": {
+            "models": "ILX:0773392",
+            "name": "superficial cardiac nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -5071,6 +5101,83 @@
                     "connects": [
                         "point_47",
                         "ganglion_19-1"
+                    ]
+                },
+				{
+                    "id": "n_77",
+                    "connects": [
+                        "point_31",
+                        "plexus_14-1"
+                    ]
+                },
+				{
+                    "id": "n_78",
+                    "connects": [
+                        "point_36",
+                        "plexus_12-2"
+                    ]
+                },
+				{
+                    "id": "n_79",
+                    "connects": [
+                        "plexus_12-2",
+                        "digestive_8-1"
+                    ]
+                },
+				{
+                    "id": "n_80",
+                    "connects": [
+                        "plexus_12-1",
+                        "digestive_16-1"
+                    ]
+                },
+				{
+                    "id": "n_81",
+                    "connects": [
+                        "plexus_12-1",
+                        "digestive_31-1"
+                    ]
+                },
+				{
+                    "id": "n_82",
+                    "connects": [
+                        "point_34",
+                        "plexus_12-1"
+                    ]
+                },
+				{
+                    "id": "n_83",
+                    "connects": [
+                        "plexus_12-1",
+                        "digestive_10-1"
+                    ]
+                },
+				{
+                    "id": "n_84",
+                    "connects": [
+                        "plexus_12-1",
+                        "endocrine_3-1"
+                    ]
+                },
+				{
+                    "id": "n_85",
+                    "connects": [
+                        "point_50",
+                        "plexus_13-1"
+                    ]
+                },
+				{
+                    "id": "n_86",
+                    "connects": [
+                        "plexus_6-1",
+                        "digestive_2-1"
+                    ]
+                },
+				{
+                    "id": "n_87",
+                    "connects": [
+                        "plexus_13-1",
+                        "digestive_2-1"
                     ]
                 },
                 {
