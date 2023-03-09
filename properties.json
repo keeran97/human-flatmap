@@ -12,14 +12,14 @@
         "label_3": {
             "label": "floor of external acoustic meatus"
         },
-        "label_11": {
-            "label": "arytenoideus"
-        },
         "label_12": {
             "label": "mucosa of arytenoid cartilage"
         },
         "label_13": {
             "label": "vocal cords"
+        },
+		"plexus_6": {
+            "label": "gastric nerve plexus"
         },
         "body_1": {
             "tooltip": false
@@ -2947,6 +2947,9 @@
         "respiratory_29-1": {
             "class": "respiratory_29"
         },
+		"respiratory_30-1": {
+            "class": "respiratory_30"
+        },
         "respiratory_3-1": {
             "class": "respiratory_3"
         },
@@ -4066,32 +4069,26 @@
             "class": "auto-hide"
         },
 		"plexus_12-1": {
-            "models": "ILX:0771304",
-            "name": "hepatic plexus",
-            "type": "ganglion",
-            "class": "auto-hide"
-        },
-		"plexus_12-2": {
-            "models": "ILX:0771304",
-            "name": "hepatic plexus",
+            "models": "ILX:0726846",
+            "name": "celiac nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
 		"plexus_13-1": {
-            "models": "ILX:0739924",
-            "name": "right gastric plexus",
+            "models": "ILX:0776628",
+            "name": "posterior pulmonary nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
 		"plexus_14-1": {
-            "models": "ILX:0776628",
-            "name": "posterior pulmonary plexus",
+            "models": "ILX:0773392",
+            "name": "superficial cardiac nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
 		"plexus_15-1": {
-            "models": "ILX:0773392",
-            "name": "superficial cardiac nerve plexus",
+            "models": "ILX:0771304",
+            "name": "hepatic nerve plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -4509,7 +4506,7 @@
             "centrelines": [
                 {
                     "id": "n_6",
-                    "models": "FMA:6231",
+                    "models": "ILX:0793828",
                     "connects": [
                         "ganglion_1-1",
                         "label_1-1"
@@ -4517,7 +4514,7 @@
                 },
                 {
                     "id": "n_6_X",
-                    "models": "FMA:6233",
+                    "models": "ILX:0793830",
                     "connects": [
                         "ganglion_1-1",
                         "point_3"
@@ -4525,7 +4522,7 @@
                 },
                 {
                     "id": "n_7",
-                    "models": "FMA:6232",
+                    "models": "ILX:0793829",
                     "connects": [
                         "ganglion_2-1",
                         "point_6",
@@ -4595,7 +4592,7 @@
                     "models": "ILX:0790524",
                     "connects": [
                         "point_13",
-                        "label_6-1"
+                        "plexus_2-1"
                     ]
                 },
                 {
@@ -4612,13 +4609,12 @@
                     "models": "UBERON:0011326",
                     "connects": [
                         "point_16",
-                        "point_17",
                         "point_18"
                     ]
                 },
                 {
                     "id": "n_18",
-                    "models": "ILX:0793561",
+                    "models": "ILX:0740900",
                     "connects": [
                         "point_18",
                         "point_19"
@@ -4661,7 +4657,7 @@
                     "models": "ILX:0790501",
                     "connects": [
                         "point_20",
-                        "respiratory_5-1"
+                        "respiratory_30-1"
                     ]
                 },
                 {
@@ -4706,9 +4702,10 @@
                 },
                 {
                     "id": "n_29",
-                    "models": "ILX:0793560",
+                    "models": "ILX:0738374",
                     "connects": [
                         "point_18",
+						"point_17",
                         "external_laryngeal_n_branching_point"
                     ]
                 },
@@ -4723,7 +4720,7 @@
                 },
                 {
                     "id": "n_31",
-                    "models": "ILX:0791784",
+                    "models": "ILX:0786680",
                     "connects": [
                         "point_24",
                         "plexus_3-1"
@@ -4731,10 +4728,10 @@
                 },
                 {
                     "id": "n_32",
-                    "models": "ILX:0793041",
+                    "models": "ILX:0786047",
                     "connects": [
-                        "point_24",
-                        "point_25"
+                        "point_25",
+                        "plexus_14-1"
                     ]
                 },
                 {
@@ -4747,9 +4744,9 @@
                 },
                 {
                     "id": "n_34",
-                    "models": "ILX:0784874",
+                    "models": "ILX:0789456",
                     "connects": [
-                        "point_25",
+                        "point_28",
                         "plexus_3-1"
                     ]
                 },
@@ -4757,7 +4754,7 @@
                     "id": "n_35",
                     "models": "ILX:0785405",
                     "connects": [
-                        "point_24",
+                        "point_22",
                         "plexus_3-1"
                     ]
                 },
@@ -4855,7 +4852,7 @@
                     "models": "ILX:0787303",
                     "connects": [
                         "point_28",
-                        "label_13-1"
+                        "digestive_12-1"
                     ]
                 },
                 {
@@ -4863,7 +4860,7 @@
                     "models": "ILX:0792328",
                     "connects": [
                         "point_28",
-                        "respiratory_8-1"
+                        "respiratory_5-1"
                     ]
                 },
                 {
@@ -4876,10 +4873,9 @@
                 },
                 {
                     "id": "n_50",
-                    "models": "ILX:0786150",
                     "connects": [
-                        "point_28",
-                        "point_38"
+                        "ganglion_3-1",
+                        "point_27"
                     ]
                 },
                 {
@@ -4887,7 +4883,7 @@
                     "models": "ILX:0789095",
                     "connects": [
                         "point_30",
-                        "plexus_4-1"
+                        "point_31"
                     ]
                 },
                 {
@@ -4903,7 +4899,7 @@
                     "models": "ILX:0790803",
                     "connects": [
                         "point_32",
-                        "point_33"
+                        "plexus_5-1"
                     ]
                 },
                 {
@@ -4924,9 +4920,9 @@
                 },
                 {
                     "id": "n_56",
-                    "models": "FMA:77213",
+                    "models": "ILX:0774697",
                     "connects": [
-                        "point_34",
+                        "plexus_12-1",
                         "digestive_9-1"
                     ]
                 },
@@ -4940,9 +4936,8 @@
                 },
                 {
                     "id": "n_58",
-                    "models": "ILX:0791071",
                     "connects": [
-                        "point_36",
+                        "plexus_12-1",
                         "urinary_13-1"
                     ]
                 },
@@ -4969,6 +4964,7 @@
                 },
                 {
                     "id": "n_62",
+					"models": "ILX:0785069",
                     "connects": [
                         "ganglion_3-1",
                         "point_17"
@@ -4983,9 +4979,10 @@
                 },
                 {
                     "id": "n_64",
+					"models": "ILX:0786150",
                     "connects": [
-                        "ganglion_3-1",
-                        "point_27"
+                        "point_28",
+                        "point_38"
                     ]
                 },
                 {
@@ -5107,14 +5104,16 @@
                     "id": "n_77",
                     "connects": [
                         "point_31",
-                        "plexus_14-1"
+                        "plexus_13-1",
+						"respiratory_2-1"
                     ]
                 },
 				{
                     "id": "n_78",
+					"models": "ILX:0790553"
                     "connects": [
                         "point_36",
-                        "plexus_12-2"
+                        "plexus_15-1"
                     ]
                 },
 				{
@@ -5128,7 +5127,7 @@
                     "id": "n_80",
                     "connects": [
                         "plexus_12-1",
-                        "digestive_16-1"
+                        "digestive_3-1"
                     ]
                 },
 				{
@@ -5140,6 +5139,7 @@
                 },
 				{
                     "id": "n_82",
+					"models": "ILX:0788419",
                     "connects": [
                         "point_34",
                         "plexus_12-1"
@@ -5160,13 +5160,6 @@
                     ]
                 },
 				{
-                    "id": "n_85",
-                    "connects": [
-                        "point_50",
-                        "plexus_13-1"
-                    ]
-                },
-				{
                     "id": "n_86",
                     "connects": [
                         "plexus_6-1",
@@ -5174,10 +5167,19 @@
                     ]
                 },
 				{
-                    "id": "n_87",
+                    "id": "n_88",
+					"models": "ILX:0784874",
                     "connects": [
-                        "plexus_13-1",
-                        "digestive_2-1"
+                        "point_33",
+                        "plexus_3-1"
+                    ]
+                },
+				{
+                    "id": "n_89",
+                    "connects": [
+                        "point_31",
+                        "plexus_4-1",
+						"respiratory_2-1"
                     ]
                 },
                 {
@@ -6611,6 +6613,7 @@
                 },
                 {
                     "id": "bolser_3",
+					"models": "ILX:0738308",
                     "connects": [
                         "point_28",
                         "respiratory_11-1"
