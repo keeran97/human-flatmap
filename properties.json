@@ -4710,15 +4710,6 @@
                     ]
                 },
                 {
-                    "id": "n_30",
-                    "models": "ILX:0786680",
-                    "connects": [
-                        "point_22",
-                        "point_23",
-                        "point_24"
-                    ]
-                },
-                {
                     "id": "n_31",
                     "models": "ILX:0786680",
                     "connects": [
@@ -4732,14 +4723,6 @@
                     "connects": [
                         "point_25",
                         "plexus_14-1"
-                    ]
-                },
-                {
-                    "id": "n_33",
-                    "models": "ILX:0788259",
-                    "connects": [
-                        "point_25",
-                        "plexus_3-1"
                     ]
                 },
                 {
@@ -4887,34 +4870,10 @@
                     ]
                 },
                 {
-                    "id": "n_52",
-                    "models": "ILX:0786619",
-                    "connects": [
-                        "point_31",
-                        "respiratory_17-1"
-                    ]
-                },
-                {
                     "id": "n_53",
                     "models": "ILX:0790803",
                     "connects": [
                         "point_32",
-                        "plexus_5-1"
-                    ]
-                },
-                {
-                    "id": "n_54",
-                    "models": "ILX:0785247",
-                    "connects": [
-                        "point_33",
-                        "plexus_5-1"
-                    ]
-                },
-                {
-                    "id": "n_55",
-                    "models": "ILX:0790681",
-                    "connects": [
-                        "point_33",
                         "plexus_5-1"
                     ]
                 },
@@ -5119,7 +5078,7 @@
 				{
                     "id": "n_79",
                     "connects": [
-                        "plexus_12-2",
+                        "plexus_15-1",
                         "digestive_8-1"
                     ]
                 },
@@ -5127,7 +5086,7 @@
                     "id": "n_80",
                     "connects": [
                         "plexus_12-1",
-                        "digestive_3-1"
+                        "digestive_16-1"
                     ]
                 },
 				{
@@ -6777,104 +6736,6 @@
                         "splanchnic_n_start-13",
                         "splanchnic_n_start-14",
                         "splanchnic_n_branching_point"
-                    ]
-                },
-                {
-                    "id": "vagus_n-1",
-                    "connects": [
-                        "point_1",
-                        "ganglion_1-1"
-                    ]
-                },
-                {
-                    "id": "vagus_n-2",
-                    "connects": [
-                        "ganglion_1-1",
-                        "ganglion_2-1"
-                    ]
-                },
-                {
-                    "id": "vagus_n-3",
-                    "connects": [
-                        "ganglion_2-1",
-                        "point_11"
-                    ]
-                },
-                {
-                    "id": "vagus_n-4",
-                    "connects": [
-                        "point_11",
-                        "point_14"
-                    ]
-                },
-                {
-                    "id": "vagus_n-5",
-                    "connects": [
-                        "point_14",
-                        "point_16"
-                    ]
-                },
-                {
-                    "id": "vagus_n-6",
-                    "connects": [
-                        "point_16",
-                        "point_22"
-                    ]
-                },
-                {
-                    "id": "vagus_n-7",
-                    "connects": [
-                        "point_22",
-                        "point_26"
-                    ]
-                },
-                {
-                    "id": "vagus_n-8",
-                    "connects": [
-                        "point_26",
-                        "point_44"
-                    ]
-                },
-                {
-                    "id": "vagus_n-9",
-                    "connects": [
-                        "point_44",
-                        "point_30"
-                    ]
-                },
-                {
-                    "id": "vagus_n-10",
-                    "connects": [
-                        "point_30",
-                        "point_31"
-                    ]
-                },
-                {
-                    "id": "vagus_n-11",
-                    "connects": [
-                        "point_31",
-                        "point_32"
-                    ]
-                },
-                {
-                    "id": "vagus_n-12",
-                    "connects": [
-                        "point_32",
-                        "point_34"
-                    ]
-                },
-                {
-                    "id": "vagus_n-13",
-                    "connects": [
-                        "point_34",
-                        "point_35"
-                    ]
-                },
-                {
-                    "id": "vagus_n-14",
-                    "connects": [
-                        "point_35",
-                        "point_36"
                     ]
                 },
                 {
