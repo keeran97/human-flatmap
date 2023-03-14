@@ -4512,6 +4512,30 @@
                         "label_1-1"
                     ]
                 },
+				{
+                    "id": "vagus_n-1",
+                    "models": "UBERON:0001759",
+                    "connects": [
+                        "point_1",
+                        "ganglion_1-1",
+						"ganglion_2-1",
+						"point_11",
+						"point_14",
+						"point_16",
+						"point_33",
+						"point_26",
+						"point_25",
+						"point_22",
+						"point_24",
+						"point_44",
+						"point_30",
+						"point_32",
+						"point_35",
+						"point_34",
+						"point_47",
+						"point_36",
+                    ]
+                },
                 {
                     "id": "n_6_X",
                     "models": "ILX:0793830",
