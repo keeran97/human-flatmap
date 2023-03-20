@@ -4,7 +4,7 @@
     "biological-sex": "PATO:0000384",
     "description": "description.json",
     "properties": "properties.json",
-	"sckan-version": "production",
+    "sckan-version": "production",
     "sources": [
         {
             "id": "whole-human",
@@ -13,7 +13,7 @@
         }
     ],
     "anatomicalMap": "anatomical_map.json",
-	"connectivityTerms": "connectivity_terms.json",
+    "connectivityTerms": "connectivity_terms.json",
     "neuronConnectivity": [
         "https://apinatomy.org/uris/models/ard-arm-cardiac",
         "https://apinatomy.org/uris/models/bolser-lewis",
