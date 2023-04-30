@@ -335,6 +335,10 @@
         "term": "UBERON:0000379",
         "name": "Tracheal Mucosa"
     },
+	"respiratory_30": {
+        "term": "ILX:0742928",
+        "name": "laryngeal vestibule"
+    },
     "digestive_1": {
         "term": "UBERON:0001007",
         "name": "digestive system"
@@ -1384,20 +1388,16 @@
         "name": "pharyngeal nerve plexus"
     },
     "plexus_3": {
-        "term": "UBERON:0002008",
-        "name": "cardiac nerve plexus"
+        "term": "ILX:0775776",
+        "name": "deep cardiac nerve plexus"
     },
     "plexus_4": {
-        "term": "UBERON:0002009",
-        "name": "pulmonary nerve plexus"
+        "term": "ILX:0775546",
+        "name": "anterior pulmonary nerve plexus"
     },
     "plexus_5": {
-        "term": "FMA:6225",
+        "term": "ILX:0793704",
         "name": "esophageal nerve plexus"
-    },
-    "plexus_6": {
-        "term": "ILX:0770806",
-        "name": "left gastric nerve plexus"
     },
     "plexus_7": {
         "term": "UBERON:0002024",
@@ -1418,6 +1418,22 @@
     "plexus_11": {
         "term": "ILX:0793660",
         "name": "Myenteric Nerve Plexus of Lower Esophagus"
+    },
+	"plexus_12": {
+        "term": "ILX:0726846",
+        "name": "celiac nerve plexus"
+    },
+	"plexus_13": {
+        "term": "ILX:0776628",
+        "name": "posterior pulmonary nerve plexus"
+    },
+	"plexus_14": {
+        "term": "ILX:0773392",
+        "name": "superficial cardiac nerve plexus"
+    },
+	"plexus_15": {
+        "term": "ILX:0771304",
+        "name": "hepatic nerve plexus"
     },
     "label_4": {
         "term": "UBERON:0002364",
@@ -1446,6 +1462,10 @@
     "label_10": {
         "term": "UBERON:0014385",
         "name": "aryepiglottic fold"
+    },
+	"label_11": {
+        "term": "ILX:0493861",
+        "name": "arytaenoideus"
     },
     "label_14": {
         "term": "UBERON:0001566",
