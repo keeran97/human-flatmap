@@ -13,9 +13,8 @@
         }
     ],
     "anatomicalMap": "anatomical_map.json",
-    "connectivityTerms": "connectivity_terms.json",
+    "connectivityTerms": "connectivity_terms_male.json",
     "neuronConnectivity": [
         "NPO"
-    ],
-    "nodeAliases": "male_node_aliases.json"
+    ]
 }
