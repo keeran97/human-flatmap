@@ -1043,7 +1043,7 @@
     },
     {
         "id": [
-            "ILX:0788968",
+            "UBERON:0002364",
             []
         ],
         "aliases": [
@@ -1052,7 +1052,7 @@
                 []
             ]
         ],
-        "name": "vagal branch to tympanic membrane"
+        "name": "tympanic membrane"
     },
     {
         "id": [

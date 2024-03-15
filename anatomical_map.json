@@ -320,11 +320,11 @@
         "name": "Bronchus"
     },
     "respiratory_26": {
-        "term": "FMA:67480",
+        "term": "ILX:0793764",
         "name": "Wall of Bronchus"
     },
     "respiratory_27": {
-        "term": "FMA:74655",
+        "term": "ILX:0793764",
         "name": "Wall of Bronchiole"
     },
 	"respiratory_28": {
