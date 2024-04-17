@@ -463,6 +463,10 @@
             [
                 "ILX:0793234",
                 []
+            ],
+            [
+                "ILX:0739241",
+                []
             ]
         ],
         "name": "inferior cervical ganglion - middle cervical ganglion interganglionic segment of the sympathetic chain"
@@ -692,6 +696,26 @@
             ],
             [
                 "UBERON:0035772",
+                []
+            ],
+            [
+                "ILX:0794730",
+                []
+            ],
+            [
+                "ILX:0794764",
+                []
+            ],
+            [
+                "UBERON:0005488",
+                []
+            ],
+            [
+                "UBERON:0002010",
+                []
+            ],
+            [
+                "ILX:0794732",
                 []
             ]
         ],
@@ -1214,18 +1238,6 @@
             ]
         ],
         "name": "hypogastric nerve"
-    },
-    {
-        "id": [
-            "UBERON:0000992",
-            []
-        ],
-        "aliases": [
-            [
-                "ILX:0793822",
-                []
-            ]
-        ]
     },
     {
         "id": [
