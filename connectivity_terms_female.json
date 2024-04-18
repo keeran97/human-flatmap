@@ -463,6 +463,10 @@
             [
                 "ILX:0793234",
                 []
+            ],
+            [
+                "ILX:0739241",
+                []
             ]
         ],
         "name": "inferior cervical ganglion - middle cervical ganglion interganglionic segment of the sympathetic chain"
@@ -692,6 +696,26 @@
             ],
             [
                 "ILX:0793821",
+                []
+            ],
+            [
+                "ILX:0794730",
+                []
+            ],
+            [
+                "ILX:0794764",
+                []
+            ],
+            [
+                "UBERON:0005488",
+                []
+            ],
+            [
+                "UBERON:0002010",
+                []
+            ],
+            [
+                "ILX:0794732",
                 []
             ]
         ],
@@ -1043,7 +1067,7 @@
     },
     {
         "id": [
-            "ILX:0788968",
+            "UBERON:0002364",
             []
         ],
         "aliases": [
@@ -1052,7 +1076,7 @@
                 []
             ]
         ],
-        "name": "vagal branch to tympanic membrane"
+        "name": "tympanic membrane"
     },
     {
         "id": [
@@ -1198,8 +1222,21 @@
             [
                 "ILX:0793832",
                 []
+            ],
+            [
+                "UBERON:0001305",
+                []
+            ],
+            [
+                "UBERON:0006960",
+                []
+            ],
+            [
+                "UBERON:0001190",
+                []
             ]
-        ]
+        ],
+        "name": "ovary"
     },
     {
         "id": [
@@ -1331,6 +1368,14 @@
             ],
             [
                 "ILX:0793808",
+                []
+            ],
+            [
+                "UBERON:0004223",
+                []
+            ],
+            [
+                "UBERON:0001344",
                 []
             ]
         ],
@@ -1494,5 +1539,73 @@
             ]
         ],
         "name": "dorsal commissural nucleus/first lumbar spinal cord segment"
+    },
+    {
+        "id": [
+            "UBERON:0000995",
+            []
+        ],
+        "aliases": [
+            [
+                "UBERON:0015173",
+                []
+            ]
+        ],
+        "name": "uterus"
+    },
+    {
+        "id": [
+            "UBERON:0003889",
+            []
+        ],
+        "aliases": [
+            [
+                "UBERON:0003984",
+                []
+            ],
+            [
+                "UBERON:0012648",
+                []
+            ],
+            [
+                "UBERON:8410010",
+                []
+            ]
+        ],
+        "name": "Fallopian tube"
+    },
+    {
+        "id": [
+            "UBERON:0035965",
+            [
+                "UBERON:0001258"
+            ]
+        ],
+        "aliases": [
+            [
+                "UBERON:0035965", 
+                [
+                    "ILX:0793663"
+                ]
+            ]
+        ],
+        "name": "wall of blood vessel/neck of urinary bladder"
+    },
+    {
+        "id": [
+            "UBERON:0035965",
+            [
+                "UBERON:0006082"
+            ]
+        ],
+        "aliases": [
+            [
+                "UBERON:0035965", 
+                [
+                    "ILX:0793664"
+                ]
+            ]
+        ],
+        "name": "wall of blood vessel/fundus of urinary bladder"
     }
 ]
