@@ -2,9 +2,9 @@
     "id": "human-flatmap_male",
     "models": "NCBITaxon:9606",
     "biological-sex": "PATO:0000384",
-    "description": "description.json",
+    "description": "male.description.json",
     "properties": "properties.json",
-	"sckan-version": "staging",
+    "sckan-version": "production",
     "sources": [
         {
             "id": "whole-human",
@@ -13,15 +13,8 @@
         }
     ],
     "anatomicalMap": "anatomical_map.json",
-	"connectivityTerms": "connectivity_terms.json",
+    "connectivityTerms": "connectivity_terms_male.json",
     "neuronConnectivity": [
-        "https://apinatomy.org/uris/models/ard-arm-cardiac",
-        "https://apinatomy.org/uris/models/bolser-lewis",
-        "https://apinatomy.org/uris/models/bronchomotor",
-        "https://apinatomy.org/uris/models/keast-bladder",
-        "https://apinatomy.org/uris/models/pancreas",
-        "https://apinatomy.org/uris/models/sawg-distal-colon",
-        "https://apinatomy.org/uris/models/sawg-stomach",
-        "https://apinatomy.org/uris/models/spleen"
+        "NPO"
     ]
 }
