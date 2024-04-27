@@ -4106,6 +4106,12 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "plexus_17-1": {
+            "models": "UBERON:0002013",
+            "name": "Superior hypogastric nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "label_1-1": {
             "label": "dura mater in the posterior cranial fossa",
             "class": "auto-hide"
