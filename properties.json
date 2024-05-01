@@ -1996,6 +1996,18 @@
             "type": "ganglion",
             "class": "auto-hide"
         },
+        "ganglion_21-1": {
+            "models": "UBERON:0002058",
+            "name": "Main Ciliary Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "ganglion_22-1": {
+            "models": "UBERON:0003962",
+            "name": "Pterygopalatine Ganglion",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -2025,6 +2037,27 @@
         },
         "body_8-1": {
             "class": "body_8"
+        },
+        "body_9-1": {
+            "class": "body_9"
+        },
+        "body_10-1": {
+            "class": "body_10"
+        },
+        "eye_1-1": {
+            "class": "eye_1"
+        },
+        "eye_2-1": {
+            "class": "eye_2"
+        },
+        "eye_3-1": {
+            "class": "eye_3"
+        },
+        "eye_4-1": {
+            "class": "eye_4"
+        },
+        "eye_5-1": {
+            "class": "eye_5"
         },
         "bolser_13-1": {
             "class": "bolser_13"
@@ -4142,6 +4175,12 @@
         "plexus_17-1": {
             "models": "UBERON:0002013",
             "name": "Superior hypogastric nerve plexus",
+            "type": "ganglion",
+            "class": "auto-hide"
+        },
+        "plexus_18-1": {
+            "models": "Ophthalmic plexus",
+            "name": "UBERON:0011194",
             "type": "ganglion",
             "class": "auto-hide"
         },
