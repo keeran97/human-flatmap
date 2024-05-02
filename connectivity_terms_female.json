@@ -1573,39 +1573,5 @@
             ]
         ],
         "name": "Fallopian tube"
-    },
-    {
-        "id": [
-            "UBERON:0035965",
-            [
-                "UBERON:0001258"
-            ]
-        ],
-        "aliases": [
-            [
-                "UBERON:0035965", 
-                [
-                    "ILX:0793663"
-                ]
-            ]
-        ],
-        "name": "wall of blood vessel/neck of urinary bladder"
-    },
-    {
-        "id": [
-            "UBERON:0035965",
-            [
-                "UBERON:0006082"
-            ]
-        ],
-        "aliases": [
-            [
-                "UBERON:0035965", 
-                [
-                    "ILX:0793664"
-                ]
-            ]
-        ],
-        "name": "wall of blood vessel/fundus of urinary bladder"
     }
 ]
