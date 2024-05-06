@@ -1,4 +1,4 @@
-name: publish-female-map
+name: publish-curation-female
 on:
   workflow_dispatch:
 
