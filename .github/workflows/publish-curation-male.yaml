@@ -1,5 +1,8 @@
 name: publish-male-map
 on:
+  push:
+    branches:
+      - curation
   workflow_dispatch:
 
 jobs:

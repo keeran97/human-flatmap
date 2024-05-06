@@ -1,5 +1,8 @@
 name: publish-female-map
 on:
+  push:
+    branches:
+      - curation
   workflow_dispatch:
 
 jobs:
