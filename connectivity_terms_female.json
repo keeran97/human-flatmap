@@ -1835,5 +1835,80 @@
                 []
             ]
         ]
+    },
+    {
+        "id": [
+            "UBERON:0003335",
+            ["UBERON:0001158"]
+        ],
+        "name": "serosa of colon/descending colon",
+        "aliases": [
+            [
+                "ILX:0771089",
+                [
+                    "UBERON:0001158"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:8410061",
+            ["UBERON:0001158"]
+        ],
+        "name": "colon smooth muscle longitudinal layer/descending colon",
+        "aliases": [
+            [
+                "ILX:0776070",
+                [
+                    "UBERON:0001158"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "ILX:0793644",
+            ["UBERON:0001158"]
+        ],
+        "name": "Arteriole in Myenteric Nerve Plexus of Descending Colon/descending colon",
+        "aliases": [
+            [
+                "ILX:0793657",
+                [
+                    "UBERON:0001158"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:8410060",
+            ["UBERON:0001158"]
+        ],
+        "name": "Circular Muscle Layer of Colon/descending colon",
+        "aliases": [
+            [
+                "ILX:0773760",
+                [
+                    "UBERON:0001158"
+                ]
+            ]
+        ]
+    },
+    {
+        "id": [
+            "UBERON:0007177",
+            ["UBERON:0001158"]
+        ],
+        "name": "lamina propria of mucosa of colon/descending colon",
+        "aliases": [
+            [
+                "ILX:0770759",
+                [
+                    "UBERON:0001158"
+                ]
+            ]
+        ]
     }
 ]
