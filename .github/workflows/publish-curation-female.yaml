@@ -17,5 +17,5 @@ jobs:
           --data '{
             "source": "${{ github.server_url }}/${{ github.repository }}",
             "manifest": "female.manifest.json",
-            "commit": "${{ github.sha }}"
+            "commit": "curation"
             }'
