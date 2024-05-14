@@ -101,6 +101,9 @@
         "S33_S3": {
             "class": "spinal_33"
         },
+        "S33_S4": {
+            "class": "spinal_33"
+        },
         "S33_T1": {
             "class": "spinal_33"
         },
@@ -189,6 +192,9 @@
             "class": "spinal_34"
         },
         "S34_S3": {
+            "class": "spinal_34"
+        },
+        "S34_S4": {
             "class": "spinal_34"
         },
         "S34_T1": {
@@ -281,6 +287,9 @@
         "S35_S3": {
             "class": "spinal_35"
         },
+        "S35_S4": {
+            "class": "spinal_35"
+        },
         "S35_T1": {
             "class": "spinal_35"
         },
@@ -371,6 +380,9 @@
         "S36_S3": {
             "class": "spinal_36"
         },
+        "S36_S4": {
+            "class": "spinal_36"
+        },
         "S36_T1": {
             "class": "spinal_36"
         },
@@ -459,6 +471,9 @@
             "class": "spinal_37"
         },
         "S37_S3": {
+            "class": "spinal_37"
+        },
+        "S37_S4": {
             "class": "spinal_37"
         },
         "S37_T1": {
@@ -584,6 +599,9 @@
         "S39_S3": {
             "class": "spinal_39"
         },
+        "S39_S4": {
+            "class": "spinal_39"
+        },
         "S39_T1": {
             "class": "spinal_39"
         },
@@ -669,6 +687,12 @@
             "class": "spinal_40"
         },
         "S40_S2": {
+            "class": "spinal_40"
+        },
+        "S40_S3": {
+            "class": "spinal_40"
+        },
+        "S40_S4": {
             "class": "spinal_40"
         },
         "S40_T1": {
@@ -1010,6 +1034,9 @@
         "S41_S3": {
             "class": "spinal_41"
         },
+        "S41_S4": {
+            "class": "spinal_41"
+        },
         "S42_C1": {
             "class": "spinal_42"
         },
@@ -1059,6 +1086,9 @@
             "class": "spinal_42"
         },
         "S42_S3": {
+            "class": "spinal_42"
+        },
+        "S42_S4": {
             "class": "spinal_42"
         },
         "S42_T1": {
@@ -1316,6 +1346,9 @@
             "class": "spinal_44"
         },
         "S44_S3": {
+            "class": "spinal_44"
+        },
+        "S44_S4": {
             "class": "spinal_44"
         },
         "S45_C1": {
@@ -1853,6 +1886,9 @@
             "class": "spinal_51"
         },
         "S51_S3": {
+            "class": "spinal_51"
+        },
+        "S51_S4": {
             "class": "spinal_51"
         },
         "S51_L1": {
@@ -4013,6 +4049,9 @@
         "spinal_65-1": {
             "class": "spinal_65"
         },
+        "spinal_69-1": {
+            "class": "spinal_69"
+        },
         "urinary_10-1": {
             "class": "urinary_10"
         },
@@ -4170,8 +4209,8 @@
             "class": "auto-hide"
         },
         "plexus_16-1": {
-            "models": "Tympanic plexus",
-            "name": "ILX:0793706",
+            "models": "ILX:0793706",
+            "name": "Tympanic plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -4182,8 +4221,8 @@
             "class": "auto-hide"
         },
         "plexus_18-1": {
-            "models": "Ophthalmic plexus",
-            "name": "UBERON:0011194",
+            "models": "UBERON:0011194",
+            "name": "Ophthalmic plexus",
             "type": "ganglion",
             "class": "auto-hide"
         },
@@ -4592,6 +4631,57 @@
         "vagus": {
             "class": "vagus_n",
             "type": "nerve"
+        },
+        "vagus_n_m-1": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-2": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-3": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-4": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-5": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-6": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-7": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-8": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-9": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-10": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-11": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-12": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-13": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-14": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-15": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-16": {
+            "class": "vagus_n"
+        },
+        "vagus_n_m-17": {
+            "class": "vagus_n"
         }
     },
     "networks": [
@@ -4607,27 +4697,222 @@
                         "label_1-1"
                     ]
                 },
-				{
+                {
                     "id": "vagus_n-1",
-                    "models": "UBERON:0001759",
                     "connects": [
                         "point_1",
+                        "ganglion_1-1"
+                    ]
+                },
+                {
+                    "id": "vagus_n-2",
+                    "connects": [
                         "ganglion_1-1",
-						"ganglion_2-1",
-						"point_11",
-						"point_14",
-						"point_16",
-						"point_33",
-						"point_26",
-						"point_25",
-						"point_22",
-						"point_24",
-						"point_44",
-						"point_30",
-						"point_32",
-						"point_35",
-						"point_34",
-						"point_47",
+                        "ganglion_2-1"
+                    ]
+                },
+                {
+                    "id": "vagus_n-3",
+                    "connects": [
+                        "ganglion_2-1",
+                        "point_11"
+                    ]
+                },
+                {
+                    "id": "vagus_n-4",
+                    "connects": [
+                        "point_11",
+                        "point_14"
+                    ]
+                },
+                {
+                    "id": "vagus_n-5",
+                    "connects": [
+                        "point_14",
+                        "point_16"
+                    ]
+                },
+                {
+                    "id": "vagus_n-6",
+                    "connects": [
+                        "point_16",
+                        "point_22"
+                    ]
+                },
+                {
+                    "id": "vagus_n-7",
+                    "connects": [
+                        "point_22",
+                        "point_26"
+                    ]
+                },
+                {
+                    "id": "vagus_n-8",
+                    "models": "UBERON:0001759",
+                    "connects": [
+                        "point_26",
+                        "point_44"
+                    ]
+                },
+                {
+                    "id": "vagus_n-9",
+                    "connects": [
+                        "point_44",
+                        "point_30"
+                    ]
+                },
+                {
+                    "id": "vagus_n-10",
+                    "connects": [
+                        "point_30",
+                        "point_31"
+                    ]
+                },
+                {
+                    "id": "vagus_n-11",
+                    "connects": [
+                        "point_31",
+                        "point_32"
+                    ]
+                },
+                {
+                    "id": "vagus_n-12",
+                    "connects": [
+                        "point_32",
+                        "point_34"
+                    ]
+                },
+                {
+                    "id": "vagus_n-13",
+                    "connects": [
+                        "point_34",
+                        "point_35"
+                    ]
+                },
+                {
+                    "id": "vagus_n-14",
+                    "connects": [
+                        "point_35",
+                        "point_36"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-1",
+                    "connects": [
+                        "point_1",
+                        "ganglion_1-1"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-2",
+                    "connects": [
+                        "ganglion_1-1",
+                        "ganglion_2-1"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-3",
+                    "connects": [
+                        "ganglion_2-1",
+                        "point_11"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-4",
+                    "connects": [
+                        "point_11",
+                        "point_14"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-5",
+                    "connects": [
+                        "point_14",
+                        "point_16"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-6",
+                    "connects": [
+                        "point_16",
+						"point_33"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-7",
+                    "connects": [
+                        "point_33",
+						"point_26"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-8",
+                    "models": "UBERON:0001759",
+                    "connects": [
+                        "point_26",
+						"point_25"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-9",
+                    "connects": [
+                        "point_25",
+						"point_22"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-10",
+                    "connects": [
+                        "point_22",
+						"point_24"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-11",
+                    "connects": [
+                        "point_24",
+						"point_44"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-12",
+                    "connects": [
+                        "point_44",
+						"point_30"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-13",
+                    "connects": [
+                        "point_30",
+						"point_32"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-14",
+                    "connects": [
+                        "point_32",
+						"point_35"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-15",
+                    "connects": [
+                        "point_35",
+						"point_34"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-16",
+                    "connects": [
+                        "point_34",
+						"point_47"
+                    ]
+                },
+                {
+                    "id": "vagus_n_m-17",
+                    "connects": [
+                        "point_47",
 						"point_36"
                     ]
                 },
@@ -6942,22 +7227,6 @@
                     ]
                 },
                 {
-                    "id": "tympanic",
-                    "models": "UBERON:0036216",
-                    "connects": [
-                        "ganglion_12-1",
-                        "plexus_16-1"
-                    ]
-                },
-                {
-                    "id": "less_pet",
-                    "models": "ILX:0793722",
-                    "connects": [
-                        "plexus_16-1",
-                        "point_50"
-                    ]
-                },
-                {
                     "id": "CNVII",
                     "models": "UBERON:0001647",
                     "connects": [
@@ -6999,7 +7268,7 @@
                 },
                 {
                     "id": "lacrimal",
-                    "models": "",
+                    "models": "UBERON:0011096",
                     "connects": [
                         "ophthalmic_branching_point",
                         "lacrimal_branching_point",
@@ -7016,7 +7285,7 @@
                 },
                 {
                     "id": "zygomatic",
-                    "models": "",
+                    "models": "ILX:0793712",
                     "connects": [
                         "maxillary_branching_point",
                         "zygomatic_branching_point",
@@ -7028,7 +7297,7 @@
                     "models": "ILX:0793711",
                     "connects": [
                         "lacrimal_branching_point",
-                        "maxillary_branching_point"
+                        "zygomatic_branching_point"
                     ]
                 },
                 {
